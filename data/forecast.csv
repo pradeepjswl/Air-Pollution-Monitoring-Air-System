@@ -1,0 +1,217 @@
+timestamp,city,pm25_forecast,aqi_forecast
+2024-01-14 01:00:00,Bengaluru,77.11102,Unhealthy
+2024-01-14 02:00:00,Bengaluru,82.186714,Unhealthy
+2024-01-14 03:00:00,Bengaluru,53.446274,Unhealthy for Sensitive Groups
+2024-01-14 04:00:00,Bengaluru,59.59816,Unhealthy
+2024-01-14 05:00:00,Bengaluru,57.846695,Unhealthy
+2024-01-14 06:00:00,Bengaluru,60.192123,Unhealthy
+2024-01-14 07:00:00,Bengaluru,95.7838,Unhealthy
+2024-01-14 08:00:00,Bengaluru,51.45726,Unhealthy for Sensitive Groups
+2024-01-14 09:00:00,Bengaluru,67.62269,Unhealthy
+2024-01-14 10:00:00,Bengaluru,75.15731,Unhealthy
+2024-01-14 11:00:00,Bengaluru,93.32046,Unhealthy
+2024-01-14 12:00:00,Bengaluru,49.45401,Unhealthy for Sensitive Groups
+2024-01-14 13:00:00,Bengaluru,80.33345,Unhealthy
+2024-01-14 14:00:00,Bengaluru,52.08309,Unhealthy for Sensitive Groups
+2024-01-14 15:00:00,Bengaluru,103.25557,Unhealthy
+2024-01-14 16:00:00,Bengaluru,65.58151,Unhealthy
+2024-01-14 17:00:00,Bengaluru,52.025425,Unhealthy for Sensitive Groups
+2024-01-14 18:00:00,Bengaluru,71.33152,Unhealthy
+2024-01-14 19:00:00,Bengaluru,90.00078,Unhealthy
+2024-01-14 20:00:00,Bengaluru,90.5048,Unhealthy
+2024-01-14 21:00:00,Bengaluru,73.67708,Unhealthy
+2024-01-14 22:00:00,Bengaluru,100.3907,Unhealthy
+2024-01-14 23:00:00,Bengaluru,84.48146,Unhealthy
+2024-01-15 00:00:00,Bengaluru,63.448093,Unhealthy
+2024-01-15 01:00:00,Bengaluru,51.794216,Unhealthy for Sensitive Groups
+2024-01-15 02:00:00,Bengaluru,59.921017,Unhealthy
+2024-01-15 03:00:00,Bengaluru,83.73539,Unhealthy
+2024-01-15 04:00:00,Bengaluru,62.917675,Unhealthy
+2024-01-15 05:00:00,Bengaluru,86.01465,Unhealthy
+2024-01-15 06:00:00,Bengaluru,92.85707,Unhealthy
+2024-01-15 07:00:00,Bengaluru,67.28489,Unhealthy
+2024-01-15 08:00:00,Bengaluru,83.23624,Unhealthy
+2024-01-15 09:00:00,Bengaluru,63.582535,Unhealthy
+2024-01-15 10:00:00,Bengaluru,49.93792,Unhealthy for Sensitive Groups
+2024-01-15 11:00:00,Bengaluru,51.441593,Unhealthy for Sensitive Groups
+2024-01-15 12:00:00,Bengaluru,59.92539,Unhealthy
+2024-01-15 13:00:00,Bengaluru,50.97776,Unhealthy for Sensitive Groups
+2024-01-15 14:00:00,Bengaluru,84.97676,Unhealthy
+2024-01-15 15:00:00,Bengaluru,83.2218,Unhealthy
+2024-01-15 16:00:00,Bengaluru,86.60983,Unhealthy
+2024-01-15 17:00:00,Bengaluru,75.14232,Unhealthy
+2024-01-15 18:00:00,Bengaluru,51.35405,Unhealthy for Sensitive Groups
+2024-01-15 19:00:00,Bengaluru,70.56889,Unhealthy
+2024-01-15 20:00:00,Bengaluru,80.838104,Unhealthy
+2024-01-15 21:00:00,Bengaluru,75.210556,Unhealthy
+2024-01-15 22:00:00,Bengaluru,90.25763,Unhealthy
+2024-01-15 23:00:00,Bengaluru,93.898796,Unhealthy
+2024-01-16 00:00:00,Bengaluru,87.82895,Unhealthy
+2024-01-16 01:00:00,Bengaluru,88.67205,Unhealthy
+2024-01-16 02:00:00,Bengaluru,92.32096,Unhealthy
+2024-01-16 03:00:00,Bengaluru,53.35441,Unhealthy for Sensitive Groups
+2024-01-16 04:00:00,Bengaluru,89.67752,Unhealthy
+2024-01-16 05:00:00,Bengaluru,69.88648,Unhealthy
+2024-01-16 06:00:00,Bengaluru,85.57974,Unhealthy
+2024-01-16 07:00:00,Bengaluru,51.321968,Unhealthy for Sensitive Groups
+2024-01-16 08:00:00,Bengaluru,55.37351,Unhealthy for Sensitive Groups
+2024-01-16 09:00:00,Bengaluru,76.68684,Unhealthy
+2024-01-16 10:00:00,Bengaluru,78.93449,Unhealthy
+2024-01-16 11:00:00,Bengaluru,80.99336,Unhealthy
+2024-01-16 12:00:00,Bengaluru,72.21541,Unhealthy
+2024-01-16 13:00:00,Bengaluru,88.22405,Unhealthy
+2024-01-16 14:00:00,Bengaluru,93.74433,Unhealthy
+2024-01-16 15:00:00,Bengaluru,75.99427,Unhealthy
+2024-01-16 16:00:00,Bengaluru,65.88241,Unhealthy
+2024-01-16 17:00:00,Bengaluru,88.42591,Unhealthy
+2024-01-16 18:00:00,Bengaluru,66.39734,Unhealthy
+2024-01-16 19:00:00,Bengaluru,92.58,Unhealthy
+2024-01-16 20:00:00,Bengaluru,55.84834,Unhealthy
+2024-01-16 21:00:00,Bengaluru,85.00516,Unhealthy
+2024-01-16 22:00:00,Bengaluru,94.64165,Unhealthy
+2024-01-16 23:00:00,Bengaluru,90.73702,Unhealthy
+2024-01-17 00:00:00,Bengaluru,77.44268,Unhealthy
+2024-01-14 01:00:00,Delhi,67.47332,Unhealthy
+2024-01-14 02:00:00,Delhi,91.54586,Unhealthy
+2024-01-14 03:00:00,Delhi,68.13977,Unhealthy
+2024-01-14 04:00:00,Delhi,67.71298,Unhealthy
+2024-01-14 05:00:00,Delhi,83.047775,Unhealthy
+2024-01-14 06:00:00,Delhi,76.83101,Unhealthy
+2024-01-14 07:00:00,Delhi,48.71902,Unhealthy for Sensitive Groups
+2024-01-14 08:00:00,Delhi,52.466484,Unhealthy for Sensitive Groups
+2024-01-14 09:00:00,Delhi,75.12542,Unhealthy
+2024-01-14 10:00:00,Delhi,89.90282,Unhealthy
+2024-01-14 11:00:00,Delhi,50.570595,Unhealthy for Sensitive Groups
+2024-01-14 12:00:00,Delhi,49.164146,Unhealthy for Sensitive Groups
+2024-01-14 13:00:00,Delhi,50.38134,Unhealthy for Sensitive Groups
+2024-01-14 14:00:00,Delhi,45.58538,Unhealthy for Sensitive Groups
+2024-01-14 15:00:00,Delhi,88.22679,Unhealthy
+2024-01-14 16:00:00,Delhi,76.891106,Unhealthy
+2024-01-14 17:00:00,Delhi,52.478863,Unhealthy for Sensitive Groups
+2024-01-14 18:00:00,Delhi,70.675476,Unhealthy
+2024-01-14 19:00:00,Delhi,65.83711,Unhealthy
+2024-01-14 20:00:00,Delhi,84.101,Unhealthy
+2024-01-14 21:00:00,Delhi,54.180218,Unhealthy for Sensitive Groups
+2024-01-14 22:00:00,Delhi,51.867584,Unhealthy for Sensitive Groups
+2024-01-14 23:00:00,Delhi,65.63892,Unhealthy
+2024-01-15 00:00:00,Delhi,71.92728,Unhealthy
+2024-01-15 01:00:00,Delhi,75.15415,Unhealthy
+2024-01-15 02:00:00,Delhi,76.88737,Unhealthy
+2024-01-15 03:00:00,Delhi,55.292915,Unhealthy for Sensitive Groups
+2024-01-15 04:00:00,Delhi,79.72711,Unhealthy
+2024-01-15 05:00:00,Delhi,57.71082,Unhealthy
+2024-01-15 06:00:00,Delhi,93.34965,Unhealthy
+2024-01-15 07:00:00,Delhi,76.9228,Unhealthy
+2024-01-15 08:00:00,Delhi,87.66356,Unhealthy
+2024-01-15 09:00:00,Delhi,67.551956,Unhealthy
+2024-01-15 10:00:00,Delhi,44.430817,Unhealthy for Sensitive Groups
+2024-01-15 11:00:00,Delhi,50.387196,Unhealthy for Sensitive Groups
+2024-01-15 12:00:00,Delhi,59.121033,Unhealthy
+2024-01-15 13:00:00,Delhi,94.370926,Unhealthy
+2024-01-15 14:00:00,Delhi,61.980553,Unhealthy
+2024-01-15 15:00:00,Delhi,61.571075,Unhealthy
+2024-01-15 16:00:00,Delhi,76.881546,Unhealthy
+2024-01-15 17:00:00,Delhi,52.642117,Unhealthy for Sensitive Groups
+2024-01-15 18:00:00,Delhi,59.129086,Unhealthy
+2024-01-15 19:00:00,Delhi,50.013157,Unhealthy for Sensitive Groups
+2024-01-15 20:00:00,Delhi,61.99833,Unhealthy
+2024-01-15 21:00:00,Delhi,71.56467,Unhealthy
+2024-01-15 22:00:00,Delhi,84.75723,Unhealthy
+2024-01-15 23:00:00,Delhi,44.664146,Unhealthy for Sensitive Groups
+2024-01-16 00:00:00,Delhi,64.756905,Unhealthy
+2024-01-16 01:00:00,Delhi,57.29799,Unhealthy
+2024-01-16 02:00:00,Delhi,66.900024,Unhealthy
+2024-01-16 03:00:00,Delhi,70.67053,Unhealthy
+2024-01-16 04:00:00,Delhi,54.957397,Unhealthy for Sensitive Groups
+2024-01-16 05:00:00,Delhi,96.6028,Unhealthy
+2024-01-16 06:00:00,Delhi,43.145016,Unhealthy for Sensitive Groups
+2024-01-16 07:00:00,Delhi,44.217575,Unhealthy for Sensitive Groups
+2024-01-16 08:00:00,Delhi,49.475082,Unhealthy for Sensitive Groups
+2024-01-16 09:00:00,Delhi,70.64334,Unhealthy
+2024-01-16 10:00:00,Delhi,67.92332,Unhealthy
+2024-01-16 11:00:00,Delhi,55.676468,Unhealthy
+2024-01-16 12:00:00,Delhi,78.407074,Unhealthy
+2024-01-16 13:00:00,Delhi,43.814934,Unhealthy for Sensitive Groups
+2024-01-16 14:00:00,Delhi,98.65592,Unhealthy
+2024-01-16 15:00:00,Delhi,61.51412,Unhealthy
+2024-01-16 16:00:00,Delhi,50.933605,Unhealthy for Sensitive Groups
+2024-01-16 17:00:00,Delhi,46.387306,Unhealthy for Sensitive Groups
+2024-01-16 18:00:00,Delhi,56.482014,Unhealthy
+2024-01-16 19:00:00,Delhi,82.80759,Unhealthy
+2024-01-16 20:00:00,Delhi,65.32231,Unhealthy
+2024-01-16 21:00:00,Delhi,97.10397,Unhealthy
+2024-01-16 22:00:00,Delhi,90.90263,Unhealthy
+2024-01-16 23:00:00,Delhi,98.5018,Unhealthy
+2024-01-17 00:00:00,Delhi,55.028572,Unhealthy for Sensitive Groups
+2024-01-14 01:00:00,Mumbai,43.831177,Unhealthy for Sensitive Groups
+2024-01-14 02:00:00,Mumbai,49.589622,Unhealthy for Sensitive Groups
+2024-01-14 03:00:00,Mumbai,81.51202,Unhealthy
+2024-01-14 04:00:00,Mumbai,52.290375,Unhealthy for Sensitive Groups
+2024-01-14 05:00:00,Mumbai,95.81107,Unhealthy
+2024-01-14 06:00:00,Mumbai,43.252968,Unhealthy for Sensitive Groups
+2024-01-14 07:00:00,Mumbai,68.86088,Unhealthy
+2024-01-14 08:00:00,Mumbai,51.66618,Unhealthy for Sensitive Groups
+2024-01-14 09:00:00,Mumbai,49.51751,Unhealthy for Sensitive Groups
+2024-01-14 10:00:00,Mumbai,50.219803,Unhealthy for Sensitive Groups
+2024-01-14 11:00:00,Mumbai,48.81818,Unhealthy for Sensitive Groups
+2024-01-14 12:00:00,Mumbai,55.394756,Unhealthy for Sensitive Groups
+2024-01-14 13:00:00,Mumbai,44.46463,Unhealthy for Sensitive Groups
+2024-01-14 14:00:00,Mumbai,57.18532,Unhealthy
+2024-01-14 15:00:00,Mumbai,92.720566,Unhealthy
+2024-01-14 16:00:00,Mumbai,51.04408,Unhealthy for Sensitive Groups
+2024-01-14 17:00:00,Mumbai,50.55007,Unhealthy for Sensitive Groups
+2024-01-14 18:00:00,Mumbai,53.385513,Unhealthy for Sensitive Groups
+2024-01-14 19:00:00,Mumbai,80.897285,Unhealthy
+2024-01-14 20:00:00,Mumbai,46.788433,Unhealthy for Sensitive Groups
+2024-01-14 21:00:00,Mumbai,48.893837,Unhealthy for Sensitive Groups
+2024-01-14 22:00:00,Mumbai,58.116882,Unhealthy
+2024-01-14 23:00:00,Mumbai,55.268913,Unhealthy for Sensitive Groups
+2024-01-15 00:00:00,Mumbai,43.072968,Unhealthy for Sensitive Groups
+2024-01-15 01:00:00,Mumbai,50.292908,Unhealthy for Sensitive Groups
+2024-01-15 02:00:00,Mumbai,50.612656,Unhealthy for Sensitive Groups
+2024-01-15 03:00:00,Mumbai,60.354053,Unhealthy
+2024-01-15 04:00:00,Mumbai,51.506298,Unhealthy for Sensitive Groups
+2024-01-15 05:00:00,Mumbai,49.871544,Unhealthy for Sensitive Groups
+2024-01-15 06:00:00,Mumbai,54.89142,Unhealthy for Sensitive Groups
+2024-01-15 07:00:00,Mumbai,42.867382,Unhealthy for Sensitive Groups
+2024-01-15 08:00:00,Mumbai,45.858395,Unhealthy for Sensitive Groups
+2024-01-15 09:00:00,Mumbai,59.374382,Unhealthy
+2024-01-15 10:00:00,Mumbai,58.439186,Unhealthy
+2024-01-15 11:00:00,Mumbai,59.374382,Unhealthy
+2024-01-15 12:00:00,Mumbai,45.631454,Unhealthy for Sensitive Groups
+2024-01-15 13:00:00,Mumbai,69.451225,Unhealthy
+2024-01-15 14:00:00,Mumbai,52.80009,Unhealthy for Sensitive Groups
+2024-01-15 15:00:00,Mumbai,70.19043,Unhealthy
+2024-01-15 16:00:00,Mumbai,50.981277,Unhealthy for Sensitive Groups
+2024-01-15 17:00:00,Mumbai,77.54843,Unhealthy
+2024-01-15 18:00:00,Mumbai,78.87164,Unhealthy
+2024-01-15 19:00:00,Mumbai,60.028652,Unhealthy
+2024-01-15 20:00:00,Mumbai,58.14746,Unhealthy
+2024-01-15 21:00:00,Mumbai,57.904663,Unhealthy
+2024-01-15 22:00:00,Mumbai,51.25582,Unhealthy for Sensitive Groups
+2024-01-15 23:00:00,Mumbai,58.19471,Unhealthy
+2024-01-16 00:00:00,Mumbai,50.3742,Unhealthy for Sensitive Groups
+2024-01-16 01:00:00,Mumbai,55.636204,Unhealthy
+2024-01-16 02:00:00,Mumbai,53.664856,Unhealthy for Sensitive Groups
+2024-01-16 03:00:00,Mumbai,40.549706,Unhealthy for Sensitive Groups
+2024-01-16 04:00:00,Mumbai,77.668976,Unhealthy
+2024-01-16 05:00:00,Mumbai,53.362293,Unhealthy for Sensitive Groups
+2024-01-16 06:00:00,Mumbai,56.447792,Unhealthy
+2024-01-16 07:00:00,Mumbai,55.36719,Unhealthy for Sensitive Groups
+2024-01-16 08:00:00,Mumbai,58.116882,Unhealthy
+2024-01-16 09:00:00,Mumbai,48.703167,Unhealthy for Sensitive Groups
+2024-01-16 10:00:00,Mumbai,45.631454,Unhealthy for Sensitive Groups
+2024-01-16 11:00:00,Mumbai,53.6421,Unhealthy for Sensitive Groups
+2024-01-16 12:00:00,Mumbai,51.980904,Unhealthy for Sensitive Groups
+2024-01-16 13:00:00,Mumbai,84.825096,Unhealthy
+2024-01-16 14:00:00,Mumbai,51.70125,Unhealthy for Sensitive Groups
+2024-01-16 15:00:00,Mumbai,79.40636,Unhealthy
+2024-01-16 16:00:00,Mumbai,45.90559,Unhealthy for Sensitive Groups
+2024-01-16 17:00:00,Mumbai,50.76145,Unhealthy for Sensitive Groups
+2024-01-16 18:00:00,Mumbai,79.47765,Unhealthy
+2024-01-16 19:00:00,Mumbai,58.848125,Unhealthy
+2024-01-16 20:00:00,Mumbai,39.695732,Unhealthy for Sensitive Groups
+2024-01-16 21:00:00,Mumbai,48.5044,Unhealthy for Sensitive Groups
+2024-01-16 22:00:00,Mumbai,49.67553,Unhealthy for Sensitive Groups
+2024-01-16 23:00:00,Mumbai,58.24356,Unhealthy
+2024-01-17 00:00:00,Mumbai,69.41112,Unhealthy
